@@ -1,4 +1,4 @@
-# Primera:
+# Primera
 A Machine Learning Framework for Training Models from CSV Files
 
 ## Description
