@@ -14,7 +14,7 @@ pip install pandas scikit-learn
 ## Usage
 1. Import the framework:
    ```python
-   from ml_framework import MLFramework
+   from primera import MLFramework
    ```
 
 2. Create an instance of the framework:
